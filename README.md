@@ -11,11 +11,10 @@ exhibit desired properties (e.g., high drug-likeness). Recently, there has been 
 in developing new graph generative models, and most of the proposed models typically fall into
 one of the following five families of models: (1) Auto-Regressive models; (2) Variational
 Autoencoders; (3) Generative Adversarial Networks; (4) Normalizing Flows; and (5) Diffusion
-models [Zhu et al., 2022, Guo and Zhao, 2023]. These models can capture the complex
+models. These models can capture the complex
 structural and semantic information of graphs. In this challenge, given a text query that
 describes some properties of the structure of the graph, you need to generate the graph
 corresponding to the description. The pipeline to deal with this task can be achieved by training
 a latent diffusion for conditional graph generation
 
-We mainly used the baseline of the project given by the teachers which was [Evdaimon et al., 2024].
-
+We based our code on the baseline given for this project given by the teachers which was [Evdaimon et al., 2024](https://arxiv.org/pdf/2403.01535)
