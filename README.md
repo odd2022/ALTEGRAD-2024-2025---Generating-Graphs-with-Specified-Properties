@@ -1,5 +1,5 @@
 # ALTEGRAD-2024-2025---Generating-Graphs-with-Specified-Properties
-Projet for my master's degree with Emilie Pic and Garance Gérard. 
+Projet for my master's degree with Emilie Pic and Garance Gérard. We were ranked 4/58 after this challenge.
 
 ### Challenge Description: 
 The goal of this project is to study and apply machine learning/artificial intelligence techniques
