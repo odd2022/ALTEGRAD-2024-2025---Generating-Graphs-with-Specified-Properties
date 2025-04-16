@@ -1,7 +1,7 @@
 # ALTEGRAD-2024-2025---Generating-Graphs-with-Specified-Properties
 Projet for my master's degree with Emilie Pic and Garance Gérard. 
 
-Challenge Description: 
+### Challenge Description: 
 The goal of this project is to study and apply machine learning/artificial intelligence techniques
 to generate graphs of specific properties. One of the most challenging tasks of machine learning
 on graphs is that of graph generation. Graph generation has attracted a lot of attention recently,
@@ -17,4 +17,7 @@ describes some properties of the structure of the graph, you need to generate th
 corresponding to the description. The pipeline to deal with this task can be achieved by training
 a latent diffusion for conditional graph generation
 
+### Code details 
 We based our code on the baseline given for this project given by the teachers which was [Evdaimon et al., 2024](https://arxiv.org/pdf/2403.01535)
+Each folder represent a different direction taken in the project. The VAE folder (based on the baseline) was the most conclusive and the direction leading to the est score. 
+A file "Rapport_ALTEGRAD.pdf" details more precisely what we did during the challenge. 
