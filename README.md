@@ -18,6 +18,8 @@ corresponding to the description. The pipeline to deal with this task can be ach
 a latent diffusion for conditional graph generation
 
 ### Code details 
-We based our code on the baseline given for this project by the teachers which was [Evdaimon et al., 2024](https://arxiv.org/pdf/2403.01535)
+We based our code on the baseline given for this project by the teachers which was [Evdaimon et al., 2024](https://arxiv.org/pdf/2403.01535).
+
 Each folder represent a different direction taken in the project. The VAE folder (based on the baseline) was the most conclusive and the direction leading to the est score. 
+
 A file "Rapport_ALTEGRAD.pdf" details more precisely what we did during the challenge. 
