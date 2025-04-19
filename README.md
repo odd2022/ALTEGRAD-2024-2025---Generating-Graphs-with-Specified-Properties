@@ -1,5 +1,5 @@
 # ALTEGRAD-2024-2025---Generating-Graphs-with-Specified-Properties
-Projet for my master's degree with Emilie Pic and Garance Gérard. We were ranked 4/58 after this challenge.
+Projet for my master's degree with Emilie Pic and Garance Gérard. We ranked 4th out of 58 participants at this challenge.
 
 ### Challenge Description: 
 The goal of this project is to study and apply machine learning/artificial intelligence techniques
@@ -18,8 +18,8 @@ corresponding to the description. The pipeline to deal with this task can be ach
 a latent diffusion for conditional graph generation
 
 ### Code details 
-We based our code on the baseline given for this project by the teachers which was [Evdaimon et al., 2024](https://arxiv.org/pdf/2403.01535).
+We built our code upon the baseline implementation provided by the instructors, following [Evdaimon et al., 2024](https://arxiv.org/pdf/2403.01535).
 
-Each folder represent a different direction taken in the project. The VAE folder (based on the baseline) was the most conclusive and the direction leading to the est score. 
+Each folder represents a different direction taken in the project. The VAE folder (based on the baseline) was the most conclusive and the direction leading to the est score. 
 
 A file "Rapport_ALTEGRAD.pdf" details more precisely what we did during the challenge. 
