@@ -1,5 +1,5 @@
 # ALTEGRAD-2024-2025---Generating-Graphs-with-Specified-Properties
-Projet for my master's degree with Emilie Pic and Garance Gérard. We ranked 4th out of 58 participants at this [Kaggle challenge] (https://www.kaggle.com/competitions/generating-graphs-with-specified-properties).
+Projet for my master's degree with Emilie Pic and Garance Gérard. We ranked 4th out of 58 participants at this [Kaggle challenge](https://www.kaggle.com/competitions/generating-graphs-with-specified-properties).
 
 ### Challenge Description: 
 Recently, there has been a surge of interest in developing new graph generative models, and most of the proposed models typically fall into
